@@ -4,4 +4,5 @@ pandas
 pyarrow
 pyjanitor
 ipykernel
-sklearn
+scikit-learn
+matplotlib
