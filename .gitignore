@@ -166,3 +166,5 @@ numpy-100/.venv
 .venv/
 venv/
 env/
+
+.Fine-Tuning Module/Fraud.csv
