@@ -168,3 +168,5 @@ venv/
 env/
 
 .Fine-Tuning Module/Fraud.csv
+Sickit Learn/Supervised Learning Project/Fine-Tuning Module/*.csv
+Sickit Learn/Supervised Learning Project/Fine-Tuning Module/*.zip
