@@ -6,3 +6,4 @@ pyjanitor
 ipykernel
 scikit-learn
 matplotlib
+seaborn
