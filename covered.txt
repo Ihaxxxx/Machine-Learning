@@ -6,10 +6,10 @@ Supervised learning
 - Model selection and hyperparameter tuning
 - Assessing model performance
 - Using pipelines to streamline workflows
+• Machine Learning with Tree-Based Models in Python
 
 
 Where to go from here?
-• Machine Learning with Tree-Based Models in Python
 • Preprocessing for Machine Learning in Python
 • Model Validation in Python
 • Feature Engineering for Machine Learning in Python
