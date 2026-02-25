@@ -1,0 +1,50 @@
+📌 Decision Trees (CART)
+    Learned CART algorithm
+    Built classification trees
+    Built regression trees
+    Understood splitting criteria
+    Controlled tree complexity (depth, pruning)
+
+📌 Model Evaluation
+    Understood generalization error
+    Diagnosed underfitting
+    Diagnosed overfitting
+    Compared train vs test error
+    Used cross-validation
+
+📌 Bagging
+    Understood bootstrap sampling
+    Built ensemble of trees
+    Reduced variance using averaging
+    Improved model stability
+
+📌 Random Forest
+    Random feature selection at each node
+    Increased diversity among trees
+    Reduced overfitting compared to single trees
+    More robust predictions
+
+📌 Boosting
+    Sequential training of weak learners
+    Each model corrects previous errors
+
+📌 AdaBoost
+    Adjusted sample weights
+    Focused on misclassified samples
+
+📌 Gradient Boosting
+    Trained on residual errors
+    Optimized using gradient descent
+    Improved prediction step-by-step
+
+📌 Stochastic Gradient Boosting
+    Subsampled training instances
+    Subsampled features
+    Reduced overfitting
+    Improved generalization
+
+📌 Hyperparameter Tuning
+    Used Grid Search
+    Applied Cross-Validation with tuning
+    Optimized model parameters
+    Improved overall performance
