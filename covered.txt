@@ -11,6 +11,7 @@ Supervised learning
 
 Where to go from here?
 • Preprocessing for Machine Learning in Python
+• Feature Engineering
 • Model Validation in Python
 • Feature Engineering for Machine Learning in Python
 - Unsupervised Learning in Python
