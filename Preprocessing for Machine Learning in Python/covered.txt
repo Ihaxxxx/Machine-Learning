@@ -1,0 +1,48 @@
+1. Handled Missing Data
+Identified missing values (NaN).
+
+Imputed or removed them appropriately.
+
+2. Fixed Incorrect Data Types
+Converted columns to proper types (e.g., string → numeric, object → category).
+
+Ensured data is model-ready.
+
+3. Standardized / Scaled Numerical Features
+Applied techniques like normalization or standardization.
+
+Made features comparable in scale.
+
+4. Processed Categorical Variables
+Encoded binary variables.
+
+Applied techniques like one-hot encoding.
+
+Converted categorical data into numerical format for ML models.
+
+5. Engineered New Features
+Created meaningful new features from existing ones.
+
+Avoided redundancy where possible.
+
+6. Identified and Removed Redundant Features
+Checked for duplicated information.
+
+Removed highly correlated features.
+
+7. Used Correlation Analysis
+Applied Pearson correlation coefficient.
+
+Detected multicollinearity issues.
+
+8. Applied Dimensionality Reduction (PCA)
+Reduced feature space.
+
+Handled multicollinearity.
+
+Improved efficiency.
+
+9. Performed Feature Selection
+Iteratively tested feature removal.
+
+Evaluated model performance after changes.
