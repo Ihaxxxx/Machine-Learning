@@ -1,0 +1,47 @@
+1️⃣ Understanding Data Types
+Identified different types of data: categorical, numerical, and text.
+Learned how understanding data types helps choose the right preprocessing technique.
+
+2️⃣ Creating Features from Categorical Data
+Converted categorical variables into numerical form for machine learning models.
+Used techniques like:
+One-hot encoding
+Label encoding
+
+3️⃣ Binning Continuous Variables
+Converted continuous numerical values into discrete groups (bins).
+Helps models capture patterns more easily and reduce noise.
+
+4️⃣ Handling Missing Data
+Detected missing values (NaN) in datasets.
+Learned methods to handle them:
+Imputation (mean, median, etc.)
+Removing rows or columns
+
+5️⃣ Cleaning Data
+Removed undesirable characters from text.
+Standardized and cleaned raw data to make it model-ready.
+
+6️⃣ Dealing with Data Distributions
+Understood how skewed distributions can affect model performance.
+Applied transformations (e.g., log transforms) to normalize data.
+
+7️⃣ Handling Outliers
+Detected extreme values that may distort model training.
+Learned strategies to remove or adjust outliers.
+
+8️⃣ Working with Text Data
+Processed free-text data for machine learning.
+Used techniques like:
+Tokenization
+Stopword removal
+Vectorization (CountVectorizer, TF-IDF)
+
+9️⃣ Feature Encoding for Machine Learning
+Converted non-tabular data (like text) into numerical vectors so models can use them.
+
+🔟 Applying Feature Engineering
+Learned how feature engineering improves model performance.
+Encouraged to practice on:
+Kaggle competitions
+Personal machine learning projects

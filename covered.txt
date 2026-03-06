@@ -8,10 +8,9 @@ Supervised learning
 - Using pipelines to streamline workflows
 • Machine Learning with Tree-Based Models in Python
 • Preprocessing for Machine Learning in Python
+• Feature Engineering for Machine Learning in Python
 
 Where to go from here?
-• Feature Engineering
 • Model Validation in Python
-• Feature Engineering for Machine Learning in Python
 - Unsupervised Learning in Python
 • Machine Learning Projects
