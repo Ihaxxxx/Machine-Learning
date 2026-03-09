@@ -1,0 +1,8 @@
+Salary 
+
+- Age
+- FormalEducation
+- YearsExperience
+- Country
+- ConvertedSalary
+- Hobby
