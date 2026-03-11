@@ -1,0 +1,25 @@
+- Linear Models
+
+Linear Regression
+Polynomial Regression
+
+- Regularized Models
+Ridge
+Lasso
+Elastic Net
+
+- Tree Models
+Decision Tree
+Bagging Ensembles
+Random Forest
+Extra Trees
+
+- Boosting Ensembles
+AdaBoost
+Gradient Boosting
+XGBoost
+LightGBM
+CatBoost
+Meta Ensembles
+Stacking
+Voting Regressor
