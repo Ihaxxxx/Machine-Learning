@@ -9,8 +9,11 @@ Supervised learning
 • Machine Learning with Tree-Based Models in Python
 • Preprocessing for Machine Learning in Python
 • Feature Engineering for Machine Learning in Python
+- Exploratory Data Analysis
 
 Where to go from here?
+- Sampling in python
+- Hypothesis Testing in python
 • Model Validation in Python
 - Unsupervised Learning in Python
 • Machine Learning Projects
