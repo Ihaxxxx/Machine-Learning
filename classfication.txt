@@ -1,0 +1,56 @@
+1️⃣Linear Classification Models
+Logistic Regression
+Ridge Classifier
+SGD Classifier (Stochastic Gradient Descent)
+Perceptron
+Passive Aggressive Classifier
+
+2️⃣ Tree-Based Models
+Decision Tree Classifier
+Extra Tree Classifier
+
+3️⃣ Distance-Based Models
+K-Nearest Neighbors (KNN) Classifier
+
+4️⃣ Support Vector Machine Models
+Support Vector Classifier (SVC)
+LinearSVC
+NuSVC
+
+5️⃣ Naive Bayes (Probabilistic Models)
+Gaussian Naive Bayes
+Multinomial Naive Bayes
+Bernoulli Naive Bayes
+Complement Naive Bayes
+Categorical Naive Bayes
+
+6️⃣ Neural Network Models
+Multi-Layer Perceptron (MLPClassifier)
+
+7️⃣ Bagging-Based Ensemble Models
+Bagging Classifier
+Random Forest Classifier
+Extra Trees Classifier
+
+8️⃣ Boosting-Based Ensemble Models
+AdaBoost Classifier
+Gradient Boosting Classifier
+
+9️⃣ Meta-Ensemble Models
+Voting Classifier
+Stacking Classifier
+
+🔟 Advanced Boosting Libraries (Not in sklearn but widely used)
+XGBoost Classifier
+LightGBM Classifier
+CatBoost Classifier
+
+
+- Models To pereform
+Logistic Regression
+Random Forest
+Gradient Boosting
+XGBoost
+LightGBM
+Support Vector Machine
+KNN
