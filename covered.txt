@@ -10,6 +10,7 @@ Supervised learning
 • Preprocessing for Machine Learning in Python
 • Feature Engineering for Machine Learning in Python
 - Exploratory Data Analysis
+- Xgb Boost
 
 Where to go from here?
 - Sampling in python
@@ -17,3 +18,9 @@ Where to go from here?
 • Model Validation in Python
 - Unsupervised Learning in Python
 • Machine Learning Projects
+
+
+- XGBoost 
+- using XGBoost for ranking/recommendation
+- using more sophisticated tuning stratergries (Bayesian Optimization)
+- using XGBoost as part of an ensemble of other models for regression/classification
