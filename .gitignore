@@ -176,3 +176,9 @@ Projects/Flight Delay
 Projects/Music Recommendation/*.csv
 Projects/Music Recommendation/*.zip
 Projects/Music Recommendation/kkbox-music-recommendation-challenge.zip
+
+Projects/Irregation Prediction/sample_submission.csv
+Projects/Irregation Prediction/test.csv
+Projects/Irregation Prediction/train.csv
+
+Projects/Spaceship Titanic/*.csv
